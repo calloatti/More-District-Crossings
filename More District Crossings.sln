@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11709.299 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "More District Crossings", "More District Crossings.csproj", "{CDB54513-FAB2-50CB-7AA3-36C46D5A3A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB54513-FAB2-50CB-7AA3-36C46D5A3A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB54513-FAB2-50CB-7AA3-36C46D5A3A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB54513-FAB2-50CB-7AA3-36C46D5A3A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB54513-FAB2-50CB-7AA3-36C46D5A3A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FE7607-30B1-4C4B-A87A-C38497542B7B}
+	EndGlobalSection
+EndGlobal

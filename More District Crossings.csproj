@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>moredistrictcrossings</AssemblyName>
+    <RootNamespace>Calloatti.MoreDistrictCrossings</RootNamespace>
+  </PropertyGroup>
+
+  <Import Project="CommonModSettings.props" />
+
+</Project>
