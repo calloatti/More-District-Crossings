@@ -12,11 +12,11 @@ using Timberborn.TemplateCollectionSystem;
 namespace Calloatti.MoreDistrictCrossings
 {
   // 1. A singleton to capture IAssetLoader so our static Harmony patch can safely build blueprints
-  public class DynamicCrossingContext : ILoadableSingleton
+  public class MoreDistrictCrossingsContext : ILoadableSingleton
   {
     public static IAssetLoader AssetLoader { get; private set; }
 
-    public DynamicCrossingContext(IAssetLoader assetLoader)
+    public MoreDistrictCrossingsContext(IAssetLoader assetLoader)
     {
       AssetLoader = assetLoader;
     }
@@ -37,10 +37,10 @@ namespace Calloatti.MoreDistrictCrossings
       // Ensure Harmony only patches once
       if (!_patched)
       {
-        new Harmony("com.yourname.dynamiccrossings").PatchAll();
+        new Harmony("Calloatti.MoreDistrictCrossings").PatchAll();
         _patched = true;
       }
-      Bind<DynamicCrossingContext>().AsSingleton();
+      Bind<MoreDistrictCrossingsContext>().AsSingleton();
     }
   }
 
@@ -55,7 +55,7 @@ namespace Calloatti.MoreDistrictCrossings
     public static void Postfix(TemplateCollectionSpec __instance, ref ImmutableArray<AssetRef<BlueprintAsset>> __result)
     {
       // Safety check to ensure the Dependency Injection has initialized our AssetLoader
-      if (DynamicCrossingContext.AssetLoader == null) return;
+      if (MoreDistrictCrossingsContext.AssetLoader == null) return;
 
       // We only care about modifying the main building collections
       if (__instance.CollectionId != "Buildings.IronTeeth" && __instance.CollectionId != "Buildings.Folktails") return;
@@ -95,7 +95,7 @@ namespace Calloatti.MoreDistrictCrossings
     // Properly constructs the AssetRef so the game can lazy-load the actual JSON asset natively
     private static AssetRef<BlueprintAsset> CreateAssetRef(string path)
     {
-      return new AssetRef<BlueprintAsset>(path, new Lazy<BlueprintAsset>(() => DynamicCrossingContext.AssetLoader.Load<BlueprintAsset>(path)));
+      return new AssetRef<BlueprintAsset>(path, new Lazy<BlueprintAsset>(() => MoreDistrictCrossingsContext.AssetLoader.Load<BlueprintAsset>(path)));
     }
   }
 }
