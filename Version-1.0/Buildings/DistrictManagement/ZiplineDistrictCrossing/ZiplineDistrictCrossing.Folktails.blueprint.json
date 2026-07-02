@@ -1,4 +1,4 @@
-{
+﻿{
   "BuildingSpec": {
     "SelectionSoundName": "ZiplineStation",
     "LoopingSoundName": "",
@@ -42,34 +42,182 @@
       "Z": 4
     },
     "Blocks": [
-      { "MatterBelow": "GroundOrStackable", "Occupations": "Bottom, Top, Corners, Path, Middle", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "GroundOrStackable", "Occupations": "Bottom, Top, Corners, Path, Middle", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "GroundOrStackable", "Occupations": "Bottom, Top, Corners, Path, Middle", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "GroundOrStackable", "Occupations": "Bottom, Top, Corners, Path, Middle", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "GroundOrStackable", "Occupations": "Bottom, Top, Corners, Path, Middle", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "GroundOrStackable", "Occupations": "Bottom, Top, Corners, Path, Middle", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "All", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "All", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "All", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "All", "Stackable": "None", "OccupyAllBelow": false, "Underground": false },
-      { "MatterBelow": "Any", "Occupations": "None", "Stackable": "None", "OccupyAllBelow": false, "Underground": false }
+      {
+        "MatterBelow": "GroundOrStackable",
+        "Occupations": "Bottom, Top, Corners, Path, Middle",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "GroundOrStackable",
+        "Occupations": "Bottom, Top, Corners, Path, Middle",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "GroundOrStackable",
+        "Occupations": "Bottom, Top, Corners, Path, Middle",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "GroundOrStackable",
+        "Occupations": "Bottom, Top, Corners, Path, Middle",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "GroundOrStackable",
+        "Occupations": "Bottom, Top, Corners, Path, Middle",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "GroundOrStackable",
+        "Occupations": "Bottom, Top, Corners, Path, Middle",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "All",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "All",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "All",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "All",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      },
+      {
+        "MatterBelow": "Any",
+        "Occupations": "None",
+        "Stackable": "None",
+        "OccupyAllBelow": false,
+        "Underground": false
+      }
     ],
     "Entrance": {
       "HasEntrance": true,
-      "Coordinates": { "X": 1, "Y": -1, "Z": 0 }
+      "Coordinates": {
+        "X": 1,
+        "Y": -1,
+        "Z": 0
+      }
     },
     "BaseZ": 0,
     "Overridable": false,
@@ -98,7 +246,9 @@
     "Icon": "Buildings/Paths/ZiplineStation/ZiplineStationIcon"
   },
   "ConstructionSiteProgressVisualizerSpec": {
-    "ProgressThresholds": [ 0.0 ]
+    "ProgressThresholds": [
+      0.0
+    ]
   },
   "BlockObjectNavMeshSettingsSpec": {
     "NoAutoWalls": false,
@@ -106,44 +256,120 @@
     "EdgeGroups": [
       {
         "Cost": 1.0,
-        "Group": { "UseGroup": false, "GroupName": "" },
+        "Group": {
+          "UseGroup": false,
+          "GroupName": ""
+        },
         "IsPath": true,
         "AddedEdges": [
-          { "Start": { "X": 1, "Y": 0, "Z": 0 }, "End": { "X": 1, "Y": -1, "Z": 0 }, "IsTwoWay": true },
-          { "Start": { "X": 1, "Y": 0, "Z": 0 }, "End": { "X": 1, "Y": 1, "Z": 0 }, "IsTwoWay": true }
+          {
+            "Start": {
+              "X": 1,
+              "Y": 0,
+              "Z": 0
+            },
+            "End": {
+              "X": 1,
+              "Y": -1,
+              "Z": 0
+            },
+            "IsTwoWay": true
+          },
+          {
+            "Start": {
+              "X": 1,
+              "Y": 0,
+              "Z": 0
+            },
+            "End": {
+              "X": 1,
+              "Y": 1,
+              "Z": 0
+            },
+            "IsTwoWay": true
+          }
         ]
       },
       {
         "Cost": 1.0,
-        "Group": { "UseGroup": false, "GroupName": "" },
+        "Group": {
+          "UseGroup": false,
+          "GroupName": ""
+        },
         "IsPath": false,
         "AddedEdges": [
-          { "Start": { "X": 1, "Y": 1, "Z": 0 }, "End": { "X": 1, "Y": 2, "Z": 0 }, "IsTwoWay": false }
+          {
+            "Start": {
+              "X": 1,
+              "Y": 1,
+              "Z": 0
+            },
+            "End": {
+              "X": 1,
+              "Y": 2,
+              "Z": 0
+            },
+            "IsTwoWay": false
+          }
         ]
       },
       {
         "Cost": 0.0,
-        "Group": { "UseGroup": true, "GroupName": "Zipline" },
+        "Group": {
+          "UseGroup": true,
+          "GroupName": "Zipline"
+        },
         "IsPath": true,
         "AddedEdges": [
-          { "Start": { "X": 1, "Y": 0, "Z": 0 }, "End": { "X": 1, "Y": 1, "Z": 3 }, "IsTwoWay": true }
+          {
+            "Start": {
+              "X": 1,
+              "Y": 0,
+              "Z": 0
+            },
+            "End": {
+              "X": 1,
+              "Y": 1,
+              "Z": 3
+            },
+            "IsTwoWay": true
+          }
         ]
       }
     ],
     "UnblockedCoordinates": [
-      { "Group": "Zipline", "Coordinates": { "X": 1, "Y": 1, "Z": 3 } }
+      {
+        "Group": "Zipline",
+        "Coordinates": {
+          "X": 1,
+          "Y": 1,
+          "Z": 3
+        }
+      }
     ],
     "BlockedEdges": []
   },
   "PathSpec": {
-    "MainPathCoordinates": { "X": 1, "Y": 0, "Z": 0 }
+    "MainPathCoordinates": {
+      "X": 1,
+      "Y": 0,
+      "Z": 0
+    }
   },
   "ZiplineTowerSpec": {
-    "CableAnchorPoint": { "X": 1.5, "Y": 3.85, "Z": 1.5 },
+    "CableAnchorPoint": {
+      "X": 1.5,
+      "Y": 3.85,
+      "Z": 1.5
+    },
     "MaxConnections": 2,
     "MaxDistance": 30,
     "UnobstructedCoordinates": [
-      { "X": 1, "Y": 1, "Z": 2 }
+      {
+        "X": 1,
+        "Y": 1,
+        "Z": 2
+      }
     ]
   },
   "MovementSpeedBoostingBuildingSpec": {
@@ -167,7 +393,10 @@
     "DefaultWorkerType": "Beaver",
     "DisallowOtherWorkerTypes": false,
     "WorkerTypeUnlockCosts": [
-      { "WorkerType": "Bot", "ScienceCost": 250 }
+      {
+        "WorkerType": "Bot",
+        "ScienceCost": 250
+      }
     ]
   },
   "EnterableSpec": {
@@ -180,7 +409,10 @@
   "WorkplaceSlotManagerSpec": {},
   "WorkplaceBonusesSpec": {
     "WorkerBonuses": [
-      { "Id": "CarryingCapacity", "MultiplierDelta": 1.0 }
+      {
+        "Id": "CarryingCapacity",
+        "MultiplierDelta": 1.0
+      }
     ]
   },
   "WorkplaceWorkerOutfitSpec": {
@@ -188,11 +420,23 @@
   },
   "BlockObjectAccessesSpec": {
     "BlockingCoordinates": [
-      { "X": 1, "Y": 1, "Z": 3 }
+      {
+        "X": 1,
+        "Y": 1,
+        "Z": 3
+      }
     ],
     "AllowedCoordinates": [
-      { "X": 1, "Y": 0, "Z": 0 },
-      { "X": 1, "Y": 1, "Z": 0 }
+      {
+        "X": 1,
+        "Y": 0,
+        "Z": 0
+      },
+      {
+        "X": 1,
+        "Y": 1,
+        "Z": 0
+      }
     ]
   },
   "FloodableObjectBlockerSpec": {},
@@ -205,24 +449,64 @@
       "CollidersSpec": {
         "BoxColliders": [
           {
-            "Center": { "X": 1.49881029, "Y": 0.15200913, "Z": 0.9989608 },
-            "Size": { "X": 2.590488, "Y": 0.304018259, "Z": 1.99364746 }
+            "Center": {
+              "X": 1.49881029,
+              "Y": 0.15200913,
+              "Z": 0.9989608
+            },
+            "Size": {
+              "X": 2.590488,
+              "Y": 0.304018259,
+              "Z": 1.99364746
+            }
           },
           {
-            "Center": { "X": 1.49611783, "Y": 2.895398, "Z": 1.49455917 },
-            "Size": { "X": 0.229688168, "Y": 1.81594908, "Z": 0.212578058 }
+            "Center": {
+              "X": 1.49611783,
+              "Y": 2.895398,
+              "Z": 1.49455917
+            },
+            "Size": {
+              "X": 0.229688168,
+              "Y": 1.81594908,
+              "Z": 0.212578058
+            }
           },
           {
-            "Center": { "X": 1.49881029, "Y": 0.730105, "Z": 0.9989608 },
-            "Size": { "X": 1.47175646, "Y": 0.8438083, "Z": 1.99364746 }
+            "Center": {
+              "X": 1.49881029,
+              "Y": 0.730105,
+              "Z": 0.9989608
+            },
+            "Size": {
+              "X": 1.47175646,
+              "Y": 0.8438083,
+              "Z": 1.99364746
+            }
           },
           {
-            "Center": { "X": 1.49881029, "Y": 1.43826985, "Z": 0.9989608 },
-            "Size": { "X": 0.709112167, "Y": 0.581341743, "Z": 1.99364746 }
+            "Center": {
+              "X": 1.49881029,
+              "Y": 1.43826985,
+              "Z": 0.9989608
+            },
+            "Size": {
+              "X": 0.709112167,
+              "Y": 0.581341743,
+              "Z": 1.99364746
+            }
           },
           {
-            "Center": { "X": 1.5, "Y": 3.84321022, "Z": 1.5 },
-            "Size": { "X": 0.627329946, "Y": 0.08920932, "Z": 0.6239952 }
+            "Center": {
+              "X": 1.5,
+              "Y": 3.84321022,
+              "Z": 1.5
+            },
+            "Size": {
+              "X": 0.627329946,
+              "Y": 0.08920932,
+              "Z": 0.6239952
+            }
           }
         ],
         "SphereColliders": [],
@@ -241,16 +525,40 @@
           "CollidersSpec": {
             "BoxColliders": [
               {
-                "Center": { "X": 1.5, "Y": 0.06321499, "Z": 1.0 },
-                "Size": { "X": 3.0, "Y": 0.126429975, "Z": 2.0 }
+                "Center": {
+                  "X": 1.5,
+                  "Y": 0.06321499,
+                  "Z": 1.0
+                },
+                "Size": {
+                  "X": 3.0,
+                  "Y": 0.126429975,
+                  "Z": 2.0
+                }
               },
               {
-                "Center": { "X": 1.49803877, "Y": 0.9223109, "Z": 0.9959904 },
-                "Size": { "X": 0.7311239, "Y": 1.58871281, "Z": 1.9994123 }
+                "Center": {
+                  "X": 1.49803877,
+                  "Y": 0.9223109,
+                  "Z": 0.9959904
+                },
+                "Size": {
+                  "X": 0.7311239,
+                  "Y": 1.58871281,
+                  "Z": 1.9994123
+                }
               },
               {
-                "Center": { "X": 1.49555552, "Y": 0.484267682, "Z": 0.9959904 },
-                "Size": { "X": 1.83236909, "Y": 0.7204203, "Z": 1.9994123 }
+                "Center": {
+                  "X": 1.49555552,
+                  "Y": 0.484267682,
+                  "Z": 0.9959904
+                },
+                "Size": {
+                  "X": 1.83236909,
+                  "Y": 0.7204203,
+                  "Z": 1.9994123
+                }
               }
             ],
             "SphereColliders": [],
