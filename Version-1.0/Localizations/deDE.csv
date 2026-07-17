@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"Röhren-Distriktübergang",
+Building.TubewayDistrictCrossing.Description,"Gleicht Waren zwischen zwei verbundenen Distrikten aus. Jede Seite hat Arbeiter, die Waren zwischen dem Distriktübergang und dem Rest des Distrikts verteilen.",
+Building.TubewayDistrictCrossing.FlavorDescription,"Besser als ein einfacher Distriktübergang!",
+Building.ZiplineDistrictCrossing.DisplayName,"Seilbahn-Distriktübergang",
+Building.ZiplineDistrictCrossing.Description,"Gleicht Waren zwischen zwei verbundenen Distrikten aus. Jede Seite hat Arbeiter, die Waren zwischen dem Distriktübergang und dem Rest des Distrikts verteilen.",
+Building.ZiplineDistrictCrossing.FlavorDescription,"Besser als ein einfacher Distriktübergang!",

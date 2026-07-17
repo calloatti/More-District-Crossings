@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"Przejście dzielnicowe rurowe",
+Building.TubewayDistrictCrossing.Description,"Równoważy towary między dwoma połączonymi dzielnicami. Każda strona ma pracowników, którzy dystrybuują towary między Przejściem Dzielnicowym a resztą dzielnicy.",
+Building.TubewayDistrictCrossing.FlavorDescription,"Lepsze niż zwykłe Przejście Dzielnicowe!",
+Building.ZiplineDistrictCrossing.DisplayName,"Przejście dzielnicowe na linie",
+Building.ZiplineDistrictCrossing.Description,"Równoważy towary między dwoma połączonymi dzielnicami. Każda strona ma pracowników, którzy dystrybuują towary między Przejściem Dzielnicowym a resztą dzielnicy.",
+Building.ZiplineDistrictCrossing.FlavorDescription,"Lepsze niż zwykłe Przejście Dzielnicowe!",

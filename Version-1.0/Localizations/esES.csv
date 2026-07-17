@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"Cruce de distrito por tubería",
+Building.TubewayDistrictCrossing.Description,"Equilibra los bienes entre dos distritos conectados. Cada lado tiene trabajadores que distribuyen bienes entre el Cruce de Distrito y el resto del distrito.",
+Building.TubewayDistrictCrossing.FlavorDescription,"¡Mejor que un simple Cruce de Distrito!",
+Building.ZiplineDistrictCrossing.DisplayName,"Cruce de distrito por tirolina",
+Building.ZiplineDistrictCrossing.Description,"Equilibra los bienes entre dos distritos conectados. Cada lado tiene trabajadores que distribuyen bienes entre el Cruce de Distrito y el resto del distrito.",
+Building.ZiplineDistrictCrossing.FlavorDescription,"¡Mejor que un simple Cruce de Distrito!",

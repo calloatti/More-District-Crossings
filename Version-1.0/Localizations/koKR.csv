@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"터브웨이 지구 연결부",
+Building.TubewayDistrictCrossing.Description,"연결된 두 지구 간의 물품 균형을 맞춥니다. 각 측에는 지구 연결부와 나머지 지구 사이에 물품을 분배하는 일꾼이 있습니다.",
+Building.TubewayDistrictCrossing.FlavorDescription,"단순한 지구 연결부보다 낫다!",
+Building.ZiplineDistrictCrossing.DisplayName,"집라인 지구 연결부",
+Building.ZiplineDistrictCrossing.Description,"연결된 두 지구 간의 물품 균형을 맞춥니다. 각 측에는 지구 연결부와 나머지 지구 사이에 물품을 분배하는 일꾼이 있습니다.",
+Building.ZiplineDistrictCrossing.FlavorDescription,"단순한 지구 연결부보다 낫다!",

@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"Passage de district par conduit",
+Building.TubewayDistrictCrossing.Description,"Équilibre les marchandises entre deux districts connectés. Chaque côté a des travailleurs qui distribuent les marchandises entre le Passage de District et le reste du district.",
+Building.TubewayDistrictCrossing.FlavorDescription,"Mieux qu'un simple Passage de District !",
+Building.ZiplineDistrictCrossing.DisplayName,"Passage de district par tyrolienne",
+Building.ZiplineDistrictCrossing.Description,"Équilibre les marchandises entre deux districts connectés. Chaque côté a des travailleurs qui distribuent les marchandises entre le Passage de District et le reste du district.",
+Building.ZiplineDistrictCrossing.FlavorDescription,"Mieux qu'un simple Passage de District !",

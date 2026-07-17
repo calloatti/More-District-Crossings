@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"管道式地区通道",
+Building.TubewayDistrictCrossing.Description,"平衡两个相连地区之间的货物。每侧都有工人在地区通道与地区其他部分之间分配货物。",
+Building.TubewayDistrictCrossing.FlavorDescription,"比简单的地区通道更好！",
+Building.ZiplineDistrictCrossing.DisplayName,"滑索式地区通道",
+Building.ZiplineDistrictCrossing.Description,"平衡两个相连地区之间的货物。每侧都有工人在地区通道与地区其他部分之间分配货物。",
+Building.ZiplineDistrictCrossing.FlavorDescription,"比简单的地区通道更好！",

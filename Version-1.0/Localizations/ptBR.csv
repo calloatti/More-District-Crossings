@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"Conexão de distrito tubular",
+Building.TubewayDistrictCrossing.Description,"Equilibra mercadorias entre dois distritos conectados. Cada lado tem trabalhadores que distribuem mercadorias entre a Conexão de Distrito e o restante do distrito.",
+Building.TubewayDistrictCrossing.FlavorDescription,"Melhor que uma simples Conexão de Distrito!",
+Building.ZiplineDistrictCrossing.DisplayName,"Conexão de distrito por tirolesa",
+Building.ZiplineDistrictCrossing.Description,"Equilibra mercadorias entre dois distritos conectados. Cada lado tem trabalhadores que distribuem mercadorias entre a Conexão de Distrito e o restante do distrito.",
+Building.ZiplineDistrictCrossing.FlavorDescription,"Melhor que uma simples Conexão de Distrito!",

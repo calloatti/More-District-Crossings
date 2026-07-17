@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"Трубный межрайонный переход",
+Building.TubewayDistrictCrossing.Description,"Балансирует товары между двумя соединёнными районами. С каждой стороны есть рабочие, которые распределяют товары между межрайонным переходом и остальной частью района.",
+Building.TubewayDistrictCrossing.FlavorDescription,"Лучше, чем простой межрайонный переход!",
+Building.ZiplineDistrictCrossing.DisplayName,"Канатный межрайонный переход",
+Building.ZiplineDistrictCrossing.Description,"Балансирует товары между двумя соединёнными районами. С каждой стороны есть рабочие, которые распределяют товары между межрайонным переходом и остальной частью района.",
+Building.ZiplineDistrictCrossing.FlavorDescription,"Лучше, чем простой межрайонный переход!",

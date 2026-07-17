@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"チューブ式地区連絡橋",
+Building.TubewayDistrictCrossing.Description,"接続された2つの地区間で物資のバランスを取ります。各地区側には、地区連絡橋と地区内の間で物資を分配する作業員がいます。",
+Building.TubewayDistrictCrossing.FlavorDescription,"普通の地区連絡橋よりすごい！",
+Building.ZiplineDistrictCrossing.DisplayName,"ジップライン地区連絡橋",
+Building.ZiplineDistrictCrossing.Description,"接続された2つの地区間で物資のバランスを取ります。各地区側には、地区連絡橋と地区内の間で物資を分配する作業員がいます。",
+Building.ZiplineDistrictCrossing.FlavorDescription,"普通の地区連絡橋よりすごい！",

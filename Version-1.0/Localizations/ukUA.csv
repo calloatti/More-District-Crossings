@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.DisplayName,"Трубний міжрайонний перехід",
+Building.TubewayDistrictCrossing.Description,"Балансує товари між двома з'єднаними районами. Кожна сторона має робітників, які розподіляють товари між Міжрайонним Переходом та рештою району.",
+Building.TubewayDistrictCrossing.FlavorDescription,"Краще, ніж простий міжрайонний перехід!",
+Building.ZiplineDistrictCrossing.DisplayName,"Канатний міжрайонний перехід",
+Building.ZiplineDistrictCrossing.Description,"Балансує товари між двома з'єднаними районами. Кожна сторона має робітників, які розподіляють товари між Міжрайонним Переходом та рештою району.",
+Building.ZiplineDistrictCrossing.FlavorDescription,"Краще, ніж простий міжрайонний перехід!",
