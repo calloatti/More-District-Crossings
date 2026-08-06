@@ -4,11 +4,6 @@
   "Id": "Calloatti.MoreDistrictCrossings",
   "MinimumGameVersion": "1.0.12.5",
   "Description": "Adds tubeway and zipline district crossings.",
-  "RequiredMods": [
-    {
-      "Id": "Harmony",
-      "MinVersion": "2.4.1"
-    }
-  ],
+  "RequiredMods": [{"Id": "Harmony", "MinVersion": "2.4.1"}],
   "OptionalMods": []
 }
