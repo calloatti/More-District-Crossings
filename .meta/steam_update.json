@@ -1,10 +1,10 @@
 {
   "ItemId": "3708075761",
-  "DepsFile": "C:/Users/calloatti/source/repos/Mods/More District Crossings/.meta/steam_deps.txt",
   "ContentFolder": "C:/Users/calloatti/Documents/Timberborn/Mods/More District Crossings",
-  "PreviewFile": "C:/Users/calloatti/Documents/Timberborn/Mods/More District Crossings/thumbnail.jpg",
-  "DescriptionFile": "C:/Users/calloatti/source/repos/Mods/More District Crossings/.meta/steam_description.txt",
-  "Title": "More District Crossings",
   "Visibility": "public",
-  "TagsFile": "C:/Users/calloatti/source/repos/Mods/More District Crossings/.meta/steam_tags.txt"
+  "DepsFile": "C:/Users/calloatti/source/repos/Mods/More District Crossings/.meta/steam_deps.txt",
+  "DescriptionFile": "C:/Users/calloatti/source/repos/Mods/More District Crossings/.meta/steam_description.txt",
+  "TagsFile": "C:/Users/calloatti/source/repos/Mods/More District Crossings/.meta/steam_tags.txt",
+  "Title": "More District Crossings",
+  "PreviewFile": "C:/Users/calloatti/Documents/Timberborn/Mods/More District Crossings/thumbnail.jpg"
 }
