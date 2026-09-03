@@ -1,0 +1,7 @@
+ID,Text,Comment
+Building.TubewayDistrictCrossing.Description,"Birbirine bağlı iki bölge arasındaki malları dengeler. Her iki tarafta, Bölge Geçişi ile bölgenin geri kalanı arasında mal dağıtan işçiler bulunur.",
+Building.TubewayDistrictCrossing.DisplayName,Tüp Geçit Bölge Geçişi,
+Building.TubewayDistrictCrossing.FlavorDescription,Basit bir Bölge Geçişi'nden daha iyi!,
+Building.ZiplineDistrictCrossing.Description,"Birbirine bağlı iki bölge arasındaki malları dengeler. Her iki tarafta, Bölge Geçişi ile bölgenin geri kalanı arasında mal dağıtan işçiler bulunur.",
+Building.ZiplineDistrictCrossing.DisplayName,Zipline Bölge Geçişi,
+Building.ZiplineDistrictCrossing.FlavorDescription,Basit bir Bölge Geçişi'nden daha iyi!,
